@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/4XLTO1865V01A.kicad_sch</source>
+    <date>Fri Jul 22 12:01:11 2022</date>
+    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>SOLARMINIBAT01A</title>
+        <company>MLAB.cz</company>
+        <rev>A</rev>
+        <date>2022-07-20</date>
+        <source>4XLTO1865V01A.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="Solar charged LTO Battery Managment System"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>LTO1865-13</value>
+      <footprint>Mlab_Batery:LTO1865-13_D19.0mm_P7.50mm</footprint>
+      <datasheet>https://files.gwl.eu/inc/_doc/attach/StoItem/7015/GWL_LTO1865_Rechargeable.pdf</datasheet>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4XLTO1865V01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20d20a6c-03cf-4a4c-8a77-7b10171706e4</tstamps>
+    </comp>
+    <comp ref="BT2">
+      <value>LTO1865-13</value>
+      <footprint>Mlab_Batery:LTO1865-13_D19.0mm_P7.50mm</footprint>
+      <datasheet>https://files.gwl.eu/inc/_doc/attach/StoItem/7015/GWL_LTO1865_Rechargeable.pdf</datasheet>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4XLTO1865V01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eefeaa69-a5fe-42d9-8e5a-806a1b488e12</tstamps>
+    </comp>
+    <comp ref="BT3">
+      <value>LTO1865-13</value>
+      <footprint>Mlab_Batery:LTO1865-13_D19.0mm_P7.50mm</footprint>
+      <datasheet>https://files.gwl.eu/inc/_doc/attach/StoItem/7015/GWL_LTO1865_Rechargeable.pdf</datasheet>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4XLTO1865V01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71721ead-7191-497d-a00f-8fb300e9f5c2</tstamps>
+    </comp>
+    <comp ref="BT4">
+      <value>LTO1865-13</value>
+      <footprint>Mlab_Batery:LTO1865-13_D19.0mm_P7.50mm</footprint>
+      <datasheet>https://files.gwl.eu/inc/_doc/attach/StoItem/7015/GWL_LTO1865_Rechargeable.pdf</datasheet>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4XLTO1865V01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6620ece5-b552-42e3-b4a7-a863bb396ec1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Angled_1x04</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x04" description="1x04 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4XLTO1865V01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e04c355-e35d-4377-bf31-20e4c1992792</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Angled_1x04</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x04" description="1x04 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4XLTO1865V01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d24f687-79aa-4b8c-8284-b78868812a22</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Angled_1x04</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x04" description="1x04 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4XLTO1865V01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b116c81e-2735-4fd0-8690-f9ef8d322648</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_1x04">
+      <description>1x04 2.54 mm pitch header</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_1x04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Battery+">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="BT2" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="BT3" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="BT4" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="J1" pin="3" pintype="input"/>
+    </net>
+    <net code="2" name="/Battery-">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="BT2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="BT3" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="BT4" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J2" pin="4" pintype="input"/>
+      <node ref="J3" pin="1" pintype="input"/>
+      <node ref="J3" pin="2" pintype="input"/>
+      <node ref="J3" pin="3" pintype="input"/>
+      <node ref="J3" pin="4" pintype="input"/>
+    </net>
+  </nets>
+</export>
