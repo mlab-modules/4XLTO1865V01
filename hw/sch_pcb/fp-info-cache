@@ -1,4 +1,4 @@
-20599101202846829
+20600759940676661
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57404,7 +57404,7 @@ Mlab_Batery
 
 
 0
-12
+20
 4
 Mlab_Batery
 BH23APC
@@ -58360,6 +58360,13 @@ dira_2mm
 0
 Mlab_Mechanical
 dira_3mm
+
+
+0
+0
+0
+Mlab_Mechanical
+dira_19,2mm
 
 
 0
