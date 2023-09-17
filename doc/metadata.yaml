@@ -1,0 +1,16 @@
+description: null
+github_branch: 4XLTO1865V01A
+github_description: null
+github_repo: 4XLTO1865V01
+github_url: https://github.com/mlab-modules/4XLTO1865V01
+homepage: false
+images:
+- doc/gen/img/4XLTO1865V01A-top.png
+- doc/gen/img/4XLTO1865V01A-bottom.png
+- doc/gen/4XLTO1865V01A-schematic.svg
+mark: 50
+mod_scheme: doc/gen/4XLTO1865V01A-schematic.pdf
+status: 0
+tags: []
+title: 4XLTO1865V01
+updated: '2023-09-17T11:18:41.065283+00:00'
