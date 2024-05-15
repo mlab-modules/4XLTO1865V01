@@ -1,4 +1,4 @@
-description: null
+description: LTO cell holder for SOLARMINIBAT01 module
 github_branch: 4XLTO1865V01A
 github_description: null
 github_repo: 4XLTO1865V01
@@ -10,7 +10,7 @@ images:
 - doc/gen/4XLTO1865V01A-schematic.svg
 mark: 50
 mod_scheme: doc/gen/4XLTO1865V01A-schematic.pdf
-status: 0
+status: 2
 tags: []
 title: 4XLTO1865V01
 updated: '2023-09-17T11:51:38.672156+00:00'
