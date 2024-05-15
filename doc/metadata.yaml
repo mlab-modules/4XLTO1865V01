@@ -1,6 +1,6 @@
-description: null
+description: 4x LTO cells holder
 github_branch: 4XLTO1865V01A
-github_description: null
+github_description: 4x LTO cells holder
 github_repo: 4XLTO1865V01
 github_url: https://github.com/mlab-modules/4XLTO1865V01
 homepage: false
@@ -11,6 +11,8 @@ images:
 mark: 50
 mod_scheme: doc/gen/4XLTO1865V01A-schematic.pdf
 status: 2
-tags: []
+tags:
+- lto-bms
+- lto-cells
 title: 4XLTO1865V01
-updated: '2024-05-15T10:54:30.813748+00:00'
+updated: '2024-05-15T11:47:21.139381+00:00'
