@@ -14,5 +14,12 @@ status: 2
 tags:
 - lto-bms
 - lto-cells
+- battery
+- lithium
+- lto
+- mlab
+- mlab-power
+- power
+- mlab-battery
 title: 4XLTO1865V01
-updated: '2024-05-31T00:56:16.704443+00:00'
+updated: '2024-07-15T01:00:28.142098+00:00'
